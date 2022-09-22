@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-this is dev
-=======
 this is master
->>>>>>> origin/master
