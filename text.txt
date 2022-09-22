@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 this is dev
-=======
-change change
->>>>>>> dev
